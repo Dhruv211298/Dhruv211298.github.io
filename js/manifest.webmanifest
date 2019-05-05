@@ -1,0 +1,20 @@
+{
+  "name": "Online FIR System",
+  "short_name": "FIR",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Online webapp for FIR registry",
+  "icons": [
+    {
+      "src": "../img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "../img/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
