@@ -508,6 +508,7 @@
         <option value="PSI">PSI</option>
         <option value="PI">PI</option>
         <option value="CONSTABLE">CONSTABLE</option>
+        <option value="USER">USER</option>
 
 
       </select>
